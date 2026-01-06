@@ -37,7 +37,7 @@ Azure Maps for geographic visualisation
 
 **Project 2: HR Attrition Analytics Dashboard**
 
-![HR-Dashboard](HR- Dashboard.png)
+![HR-Dashboard](HR-Dashboard.png)
 
 Objective
 Analyse employee attrition patterns to help HR reduce turnover and improve retention strategies.
